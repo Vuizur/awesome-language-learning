@@ -7,7 +7,7 @@ A curated list of amazing projects that help you learn languages.
     - [Chatbots](#chatbots)
     - [Learning With Texts (LinQ-like)](#learning-with-texts-linq-like)
     - [Reader Programs](#reader-programs)
-    - [Anki Flashcards](#anki-flashcards)
+    - [Anki (Flashcards)](#anki-flashcards)
     - [Games](#games)
   - [Developer Resources](#developer-resources)
     - [Frequency Lists](#frequency-lists)
@@ -19,7 +19,7 @@ A curated list of amazing projects that help you learn languages.
     - [Image generation](#image-generation)
     - [Other Great Projects](#other-great-projects)
   - [Useful Resources](#useful-resources)
-- [Contributing](#contributing)
+  - [Contributing](#contributing)
 ## Language Learning
 
 ### Dictionaries
@@ -42,11 +42,12 @@ These applications allow you to read texts with an integrated system to look up 
 * [KOReader](https://github.com/koreader/koreader) - An open source ebook reader app that runs on many devices and has a lot of integrated dictionaries that can be downloaded with one click.
 * [WordDumb](https://github.com/xxyzz/WordDumb) - A program that edits ebooks so that simplified definitions are shown over complicated words. It also supports generating Kindle X-Ray.
 
-### Anki Flashcards
+### Anki (Flashcards)
 * [AnkiDroid](https://github.com/ankidroid/Anki-Android) - The free Anki Android client for the most popular flashcard software - the [desktop version](https://apps.ankiweb.net/) is free as well.
 * [vocabsieve](https://github.com/FreeLanguageTools/vocabsieve) - A program that allows to easily add sentences you read to Anki. Per flashcard the focus always lies on one word, with automatically fetched translations + pronunciation.
 * [tatoeba-to-anki](https://github.com/Vuizur/tatoeba-to-anki) - A project that allows you to generate Anki decks with translations.
 * [ankigenbot](https://github.com/damaru2/ankigenbot) - A telegram bot that automatically creates Anki flashcards for words you send to it.
+
 
 ### Games
 * [LibreLingo](https://github.com/LibreLingo/LibreLingo) - An open-source Duolingo-like game.
@@ -61,14 +62,13 @@ These applications allow you to read texts with an integrated system to look up 
 * [xxyzz's Chinese wiktextract fork](https://github.com/xxyzz/wiktextract) - A fork that has parsed the Chinese Wiktionary.
 * [The KOReader dictionary list](https://github.com/koreader/koreader/blob/master/frontend/ui/data/dictionaries.lua) - Direct links to hundreds of free Startdict dictionaries.
 * [pyglossary](https://github.com/ilius/pyglossary) - Amazing library for the creation and conversion of dictionaries in a huge amount of formats.
-* [wordnet-as-a-service](https://github.com/jacopofar/wordnet-as-a-service)
+* [wordnet-as-a-service](https://github.com/jacopofar/wordnet-as-a-service) - A REST interface for WordNet.
 * [Proficiency](https://github.com/xxyzz/Proficiency/tree/master) - A library that extracts short definitions from kaikki data.
 
 ### Translation
 * [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 * [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)
 * [Argos-Translate](https://github.com/argosopentech/argos-translate)
-* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
 
 ### Text To Speech
 * [edge-tts](https://github.com/rany2/edge-tts) - A Python library the uses the reverse engineered Text To Speech API of the Edge browser, producing extremely high quality output.
@@ -94,5 +94,5 @@ You need illustrations for your project? Look no further.
 
 * [Free Language Tools Wiki](https://wiki.freelanguagetools.org/quickstart) - Has a lot of useful tips and links, written by the vocabsieve maintainer.
 
-# Contributing
+## Contributing
 If you have ideas about what to add or see some description that is inaccurate or you want to add one, send a pull request or open an issue.
