@@ -47,7 +47,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [vocabsieve](https://github.com/FreeLanguageTools/vocabsieve) - A program that allows to easily add sentences you read to Anki. Per flashcard the focus always lies on one word, with automatically fetched translations + pronunciation.
 * [tatoeba-to-anki](https://github.com/Vuizur/tatoeba-to-anki) - A project that allows you to generate Anki decks with translations.
 * [ankigenbot](https://github.com/damaru2/ankigenbot) - A telegram bot that automatically creates Anki flashcards for words you send to it.
-
+* [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) - An optimized spaced repetition algorithm that should minimize review time.
 
 ### Games
 * [LibreLingo](https://github.com/LibreLingo/LibreLingo) - An open-source Duolingo-like game.
