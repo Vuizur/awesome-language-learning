@@ -16,34 +16,37 @@ A curated list of amazing projects that help you learn languages
     - [Text To Speech](#text-to-speech)
     - [NLP](#nlp)
     - [Speech To Text](#speech-to-text)
+    - [Image generation](#image-generation)
     - [Other Great Projects](#other-great-projects)
+  - [Useful Resources](#useful-resources)
 - [Contributing](#contributing)
 ## Language learning
 
 ### Dictionaries
-* [wikdict-gen](https://github.com/karlb/wikdict-gen)
-* [ebook-reader-dict](https://github.com/BoboTiG/ebook-reader-dict)
-* [Wiktionary-Dictionaries](https://github.com/Vuizur/Wiktionary-Dictionaries)
-* [dictionariez](https://github.com/pnlpal/dictionariez)
+* [wikdict-gen](https://github.com/karlb/wikdict-gen) - For 20 popular languages this project offers a downloadable dictionary in many formats for each language pair
+* [ebook-reader-dict](https://github.com/BoboTiG/ebook-reader-dict) - 10 monolingual dictionaries extracted from Wiktionary in several language
+* [Wiktionary-Dictionaries](https://github.com/Vuizur/Wiktionary-Dictionaries) - Dictionaries extracted from the English Wiktionary, supporting 300+ languages with definitions in English
+* [dictionariez](https://github.com/pnlpal/dictionariez) - A browser extension to look up words on web pages
 
 ### Chatbots
-* [react-gpt3-chatbot](https://github.com/Vuizur/react-gpt3-chatbot)
+* [react-gpt3-chatbot](https://github.com/Vuizur/react-gpt3-chatbot) - A GPT3-based chatbot that supports several languages and corrects your errors. (Note: Currently [ChatGPT](https://chat.openai.com/) is free in beta, so go use that - unless you _really_ dislike censorship)
   
 ### Learning With Texts (LinQ-like)
-* [trunk](https://github.com/theiceshelf/trunk)
-* [lwt](https://github.com/HugoFara/lwt)
-* [lute](https://github.com/jzohrab/lute)
+These applications allow you to read texts with an integrated system to look up words, mark them as known, and track your progress.
+* [trunk](https://github.com/theiceshelf/trunk) - Very pretty UI, works pretty well (although the author says it's unstable) and supports 8 languages
+* [lwt](https://github.com/HugoFara/lwt) - A self-hosted version (requires a bit of effort to get running) with a long history
+* [lute](https://github.com/jzohrab/lute) - A partial rewrite of lwt
 
 ### Reader Programs
-* [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - An manga reader program that can fetch manga in many different languages
-* [KOReader](https://github.com/koreader/koreader) - an open source ebook reader app that runs on many devices and has many integrated dictionaries that can be downloaded with one click
-* [WordDumb](https://github.com/xxyzz/WordDumb)
+* [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - An manga reader that can fetch manga in many different languages
+* [KOReader](https://github.com/koreader/koreader) - An open source ebook reader app that runs on many devices and has a lot of integrated dictionaries that can be downloaded with one click
+* [WordDumb](https://github.com/xxyzz/WordDumb) - A program that edits ebooks so that simplified definitions are shown over complicated words. It also supports generating Kindle X-Ray
 
 ### Anki Flashcards
-* [AnkiDroid](https://github.com/ankidroid/Anki-Android)
-* [vocabsieve](https://github.com/FreeLanguageTools/vocabsieve)
-* [tatoeba-to-anki](https://github.com/Vuizur/tatoeba-to-anki)
-* [ankigenbot](https://github.com/damaru2/ankigenbot)
+* [AnkiDroid](https://github.com/ankidroid/Anki-Android) - The free Anki Android client for the most popular flashcard software - the [desktop version](https://apps.ankiweb.net/) is free as well
+* [vocabsieve](https://github.com/FreeLanguageTools/vocabsieve) - A program that allows to easily add sentences you read to Anki. Per flashcard the focus always lies on one word, with automatically fetched translations + pronunciation.
+* [tatoeba-to-anki](https://github.com/Vuizur/tatoeba-to-anki) - A project that allows you to generate Anki decks with translations
+* [ankigenbot](https://github.com/damaru2/ankigenbot) - A telegram bot that automatically creates Anki flashcards for words you send to it.
 
 ### Games
 * [LibreLingo](https://github.com/LibreLingo/LibreLingo) - An open-source Duolingo-like game
@@ -59,7 +62,7 @@ A curated list of amazing projects that help you learn languages
 * [The KOReader dictionary list](https://github.com/koreader/koreader/blob/master/frontend/ui/data/dictionaries.lua) - Direct links to hundreds of free Startdict dictionaries
 * [pyglossary](https://github.com/ilius/pyglossary) - Amazing library for the creation and conversion of dictionaries in a huge amount of formats
 * [wordnet-as-a-service](https://github.com/jacopofar/wordnet-as-a-service)
-
+* [Proficiency](https://github.com/xxyzz/Proficiency/tree/master) - A library that extracts short definitions from kaikki data
 
 ### Translation
 * [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
@@ -77,8 +80,19 @@ A curated list of amazing projects that help you learn languages
 * [Whisper](https://github.com/openai/whisper) - OpenAI's amazing project that delivers extremely good results (except for low-resource languages)
 * [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - A version of Whisper that runs much faster on the CPU, it even supports browser through WASM
 
+### Image generation
+You need illustrations for your project? Look no further.
+* [Stable diffusion](https://github.com/CompVis/stable-diffusion) - An amazing open source generator that made huge waves on its release
+* [AUTOMATIC1111's webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - This is what you should install if you want to use Stable Diffusion locally
+* [Camenduru's notebooks](https://github.com/camenduru/stable-diffusion-webui-colab) - A simple one click way to use Stable Diffusion on Google Colab (if you don't have a good graphics card)
+* [civitai](https://github.com/civitai/civitai) - A website that contains all kinds of models, optimized for different aesthetics
+
 ### Other Great Projects
-* [WantWords](https://github.com/thunlp/WantWords)
+* [WantWords](https://github.com/thunlp/WantWords) - A reverse dictionary that can find words based on the definitions you type (and works surprisingly well)
+
+## Useful Resources
+
+* [Free Language Tools Wiki](https://wiki.freelanguagetools.org/quickstart) - Has a lot of useful tips and links, written by the vocabsieve maintainer
 
 # Contributing
 If you have ideas about what to add or see some description that is inaccurate or you want to add one, send a pull request or open an issue.
