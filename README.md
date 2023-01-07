@@ -6,9 +6,12 @@ A curated list of amazing projects that help you learn languages.
     - [Dictionaries](#dictionaries)
     - [Chatbots](#chatbots)
     - [Learning With Texts (LinQ-like)](#learning-with-texts-linq-like)
-    - [Reader Programs](#reader-programs)
+    - [Reader Programs or extensions](#reader-programs-or-extensions)
     - [Anki (Flashcards)](#anki-flashcards)
+    - [Video Players (or extensions)](#video-players-or-extensions)
     - [Games](#games)
+    - [Courses](#courses)
+    - [Chrome extensions](#chrome-extensions)
   - [Developer Resources](#developer-resources)
     - [Frequency Lists](#frequency-lists)
     - [Dictionary Data](#dictionary-data)
@@ -37,10 +40,11 @@ These applications allow you to read texts with an integrated system to look up 
 * [lwt](https://github.com/HugoFara/lwt) - A self-hosted version (requires a bit of effort to get running) with a long history.
 * [lute](https://github.com/jzohrab/lute) - A partial rewrite of lwt.
 
-### Reader Programs
+### Reader Programs or extensions
 * [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - An manga reader that can fetch manga in many different languages.
 * [KOReader](https://github.com/koreader/koreader) - An open source ebook reader app that runs on many devices and has a lot of integrated dictionaries that can be downloaded with one click.
 * [WordDumb](https://github.com/xxyzz/WordDumb) - A program that edits ebooks so that simplified definitions are shown over complicated words. It also supports generating Kindle X-Ray.
+* [fluentcards](https://github.com/katspaugh/fluentcards) - A website that allows you to turn your kindle lookups into Anki flashcards
 
 ### Anki (Flashcards)
 * [AnkiDroid](https://github.com/ankidroid/Anki-Android) - The free Anki Android client for the most popular flashcard software - the [desktop version](https://apps.ankiweb.net/) is free as well.
@@ -48,9 +52,25 @@ These applications allow you to read texts with an integrated system to look up 
 * [tatoeba-to-anki](https://github.com/Vuizur/tatoeba-to-anki) - A project that allows you to generate Anki decks with translations.
 * [ankigenbot](https://github.com/damaru2/ankigenbot) - A telegram bot that automatically creates Anki flashcards for words you send to it.
 * [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) - An optimized spaced repetition algorithm that should minimize review time.
+* [vocage](https://github.com/proycon/vocage) - A spaced repetition program in the terminal
+
+### Video Players (or extensions)
+* [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - Allows you to automatically create Anki flashcards out of the TV shows you are watching.
+* [Immersive](https://github.com/Ben-Kerman/immersive) - A similar program to mpvacious.
+* [voracious](https://github.com/rsimmons/voracious) - A video player that has several features directed at language learning.
+* [subadub](https://github.com/rsimmons/subadub) - An extension for Netflix that allows downloading SRT and makes them copyable (so that you can look up the words).
 
 ### Games
 * [LibreLingo](https://github.com/LibreLingo/LibreLingo) - An open-source Duolingo-like game.
+* [Game2Text](https://github.com/mathewthe2/Game2Text) - A program that makes it easy to look up words in Visual Novels.
+
+
+### Courses
+* [Language Transfer](https://github.com/language-transfer/lt-app) - An app that offers completely free audio courses for several languages.
+
+### Chrome extensions
+* [word-discoverer](https://github.com/mechatroner/word-discoverer) - An extension that highlights rare words in texts.
+* [pronounce](https://github.com/filipeisho/pronounce) - An extension that correctly pronounces words.
 
 ## Developer Resources
 
@@ -64,6 +84,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [pyglossary](https://github.com/ilius/pyglossary) - Amazing library for the creation and conversion of dictionaries in a huge amount of formats.
 * [wordnet-as-a-service](https://github.com/jacopofar/wordnet-as-a-service) - A REST interface for WordNet.
 * [Proficiency](https://github.com/xxyzz/Proficiency/tree/master) - A library that extracts short definitions from kaikki data.
+* [dictcc-stardict](https://github.com/Linus789/dictcc-stardict) - Tool to convert the dict.cc dictionaries to stardict format.
 
 ### Translation
 * [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
@@ -93,6 +114,8 @@ You need illustrations for your project? Look no further.
 ## Useful Resources
 
 * [Free Language Tools Wiki](https://wiki.freelanguagetools.org/quickstart) - Has a lot of useful tips and links, written by the vocabsieve maintainer.
+* [Low resource languages](https://github.com/RichardLitt/low-resource-languages) - A Github repo containing many links to projects about low resource languages
+* [Language-learning](https://github.com/tigertv/language-learning) - A Github repo with many links to language learning resources
 
 ## Contributing
 If you have ideas about what to add or see some description that is inaccurate or you want to add one, send a pull request or open an issue.
