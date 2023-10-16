@@ -72,6 +72,9 @@ These applications allow you to read texts with an integrated system to look up 
 * [Pathos](https://github.com/callanh/pathos-official) - A roguelike game with desktop + mobile support inspired by Nethack.
 * [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA/tree/master) - A zombie roguelike game with a huge amount of content.
 * [0 A.D.](https://play0ad.com/) - A strategy game inspired by Age Of Empires.
+* [Battle of Wesnoth](https://github.com/wesnoth/wesnoth) - Turn based strategy game with a huge amount of content.
+* [OpenTTD](https://github.com/OpenTTD/OpenTTD) - A simulation game based upon Transport Tycoon Deluxe.
+* [Veloren](https://veloren.net/) - a voxel RPG inspired by Cube World and Minecraft.
 
 ### Courses
 * [Language Transfer](https://github.com/language-transfer/lt-app) - An app that offers completely free audio courses for several languages.
