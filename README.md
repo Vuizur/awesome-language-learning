@@ -33,7 +33,7 @@ A curated list of amazing projects that help you learn languages.
 * [dictionariez](https://github.com/pnlpal/dictionariez) - A browser extension to look up words on web pages.
 
 ### Chatbots
-* [ChatGPT](https://chat.openai.com/) - very good for practicing a wide variety for languages. Especially with the new version that can listen and reply to you in voice.
+* [ChatGPT](https://chat.openai.com/) - very good for practicing a wide variety for languages. Especially with the new version that can listen and reply to you in voice (freely available in the app).
   
 ### Learning With Texts (LinQ-like)
 These applications allow you to read texts with an integrated system to look up words, mark them as known, and track your progress.
@@ -74,7 +74,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [0 A.D.](https://play0ad.com/) - A strategy game inspired by Age Of Empires.
 * [Battle of Wesnoth](https://github.com/wesnoth/wesnoth) - Turn based strategy game with a huge amount of content.
 * [OpenTTD](https://github.com/OpenTTD/OpenTTD) - A simulation game based upon Transport Tycoon Deluxe.
-* [Veloren](https://veloren.net/) - a voxel RPG inspired by Cube World and Minecraft.
+* [Veloren](https://veloren.net/) - A voxel RPG inspired by Cube World and Minecraft.
 
 ### Courses
 * [Language Transfer](https://github.com/language-transfer/lt-app) - An app that offers completely free audio courses for several languages.
@@ -89,8 +89,8 @@ These applications allow you to read texts with an integrated system to look up 
 * [wordfreq](https://github.com/rspeer/wordfreq) - A great Python library that contains frequency data for 44 languages.
 
 ### Dictionary Data
-* [wiktextract](https://github.com/tatuylonen/wiktextract) - A very high quality extracted JSON version of the English Wiktionary, containing over 8 million entries in 300+ languages with a huge amount of metadata.
-* [xxyzz's Chinese wiktextract fork](https://github.com/xxyzz/wiktextract) - A fork that has parsed the Chinese Wiktionary.
+* [wiktextract](https://github.com/tatuylonen/wiktextract) - A very high quality extracted JSON version of Wiktionary, with the English one containing over 8 million entries in 300+ languages with a huge amount of metadata. Supports currently 6 Wiktionaries, download the extracted data [here](https://kaikki.org/dictionary/rawdata.html).
+* [Ultimate Dictionary API](https://github.com/Vuizur/ultimate-dictionary-api) - A free dictionary API that supports all languages.
 * [The KOReader dictionary list](https://github.com/koreader/koreader/blob/master/frontend/ui/data/dictionaries.lua) - Direct links to hundreds of free Stardict dictionaries.
 * [pyglossary](https://github.com/ilius/pyglossary) - Amazing library for the creation and conversion of dictionaries in a huge amount of formats.
 * [wordnet-as-a-service](https://github.com/jacopofar/wordnet-as-a-service) - A REST interface for WordNet.
