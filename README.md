@@ -39,7 +39,7 @@ A curated list of amazing projects that help you learn languages.
 These applications allow you to read texts with an integrated system to look up words, mark them as known, and track your progress.
 * [trunk](https://github.com/theiceshelf/trunk) - Very pretty UI, works pretty well (although the author says it's unstable) and supports 8 languages.
 * [lwt](https://github.com/HugoFara/lwt) - A self-hosted version (requires a bit of effort to get running) with a long history.
-* [lute](https://github.com/jzohrab/lute) - A partial rewrite of lwt.
+* [Lute](https://github.com/LuteOrg/lute-v3) - Learning Using Texts (Lute). A partial rewrite of lwt.
 
 ### Reader Programs or extensions
 * [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - An manga reader that can fetch manga in many different languages.
