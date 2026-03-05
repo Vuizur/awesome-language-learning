@@ -13,6 +13,8 @@ A curated list of amazing projects that help you learn languages.
     - [Open Source Games (with a lot of text and translations)](#open-source-games-with-a-lot-of-text-and-translations)
     - [Courses](#courses)
     - [Chrome Extensions](#chrome-extensions)
+    - [HSK Online Test](#hsk-online-test)
+    - Vuizur/awesome-language-learning 
   - [Developer Resources](#developer-resources)
     - [Frequency Lists](#frequency-lists)
     - [Dictionary Data](#dictionary-data)
@@ -82,7 +84,8 @@ These applications allow you to read texts with an integrated system to look up 
 ### Chrome Extensions
 * [word-discoverer](https://github.com/mechatroner/word-discoverer) - An extension that highlights rare words in texts.
 * [pronounce](https://github.com/filipeisho/pronounce) - An extension that correctly pronounces words.
-
+### HSK Online Test
+- [HSK 4 Mock Exam](https://github.com/Make-dream-clear/hsk4-mock-exam) - 12 complete HSK 4 practice tests with 1,176 questions in JSON. Listening, reading, and writing with answer keys. [Online demo](https://hsk4.mandarinzone.com/).
 ## Developer Resources
 
 ### Frequency Lists
