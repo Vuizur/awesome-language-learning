@@ -34,6 +34,7 @@ A curated list of amazing projects that help you learn languages.
 
 ### Chatbots
 * [ChatGPT](https://chat.openai.com/) - very good for practicing a wide variety for languages. Especially with the new version that can listen and reply to you in voice (freely available in the app).
+* [The Daily Lesson](https://thedailylesson.com/) - 365 daily 5-minute lessons in 47 languages with an AI teacher ("Kelly"), structured across 4 tracks (learn / grow / teach / trivia) and 4 age modes. Free 7-day trial; runs a live vocabulary-retention pilot with Cohen's d measurement at [/pilot](https://thedailylesson.com/pilot).
   
 ### Learning With Texts (LinQ-like)
 These applications allow you to read texts with an integrated system to look up words, mark them as known, and track your progress.
@@ -91,6 +92,7 @@ These applications allow you to read texts with an integrated system to look up 
 ### Dictionary Data
 * [wiktextract](https://github.com/tatuylonen/wiktextract) - A very high quality extracted JSON version of Wiktionary, with the English one containing over 8 million entries in 300+ languages with a huge amount of metadata. Supports currently 6 Wiktionaries, download the extracted data [here](https://kaikki.org/dictionary/rawdata.html).
 * [Ultimate Dictionary API](https://github.com/Vuizur/ultimate-dictionary-api) - A free dictionary API that supports all languages.
+* [Word Orb API](https://wordorb.ai) - 162,253 English words with IPA, etymology, part of speech, and 601,143 translations across 47 languages. Free anonymous tier, HTTPS, CORS enabled. Returned as JSON, OpenAI-compatible MCP server also available.
 * [The KOReader dictionary list](https://github.com/koreader/koreader/blob/master/frontend/ui/data/dictionaries.lua) - Direct links to hundreds of free Stardict dictionaries.
 * [pyglossary](https://github.com/ilius/pyglossary) - Amazing library for the creation and conversion of dictionaries in a huge amount of formats.
 * [wordnet-as-a-service](https://github.com/jacopofar/wordnet-as-a-service) - A REST interface for WordNet.
