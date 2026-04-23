@@ -77,6 +77,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [Veloren](https://veloren.net/) - A voxel RPG inspired by Cube World and Minecraft.
 
 ### Courses
+- [glot.it](https://glot.it) — Free Thai-learning app with 161 structured lessons, FSRS spaced repetition, AI roleplay chat, and a pitch-contour tone trainer. Web + iOS + Android. Open source: [github.com/kensaurus/glot.it](https://github.com/kensaurus/glot.it).
 * [Language Transfer](https://github.com/language-transfer/lt-app) - An app that offers completely free audio courses for several languages.
 
 ### Chrome Extensions
