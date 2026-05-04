@@ -64,6 +64,7 @@ These applications allow you to read texts with an integrated system to look up 
 ### Language Learning Games
 * [LibreLingo](https://github.com/LibreLingo/LibreLingo) - An open-source Duolingo-like game.
 * [Game2Text](https://github.com/mathewthe2/Game2Text) - A program that makes it easy to look up words in Visual Novels.
+* [Constructing Language Games](https://constructinglanguage.com/games) - Free browser games for Japanese and Mandarin sentence building, Japanese conjugation, and Mandarin grammar practice.
 
 ### Open Source Games (with a lot of text and translations)
 * [Unciv](https://github.com/yairm210/Unciv) - Awesome strategy game (Civ 5 remake) with very low resource requirements and great desktop + mobile support.
