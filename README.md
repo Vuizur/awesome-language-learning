@@ -64,6 +64,7 @@ These applications allow you to read texts with an integrated system to look up 
 ### Language Learning Games
 * [LibreLingo](https://github.com/LibreLingo/LibreLingo) - An open-source Duolingo-like game.
 * [Game2Text](https://github.com/mathewthe2/Game2Text) - A program that makes it easy to look up words in Visual Novels.
+* [Pokelingo](https://pokelingo.io/) - A daily Pokédex reading puzzle in 9 languages. Read an entry in your target language and guess the Pokémon. Cross-language vocabulary practice for Japanese, Korean, Mandarin, German, French, Spanish, Italian.
 
 ### Open Source Games (with a lot of text and translations)
 * [Unciv](https://github.com/yairm210/Unciv) - Awesome strategy game (Civ 5 remake) with very low resource requirements and great desktop + mobile support.
