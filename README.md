@@ -82,6 +82,7 @@ These applications allow you to read texts with an integrated system to look up 
 ### Chrome Extensions
 * [word-discoverer](https://github.com/mechatroner/word-discoverer) - An extension that highlights rare words in texts.
 * [pronounce](https://github.com/filipeisho/pronounce) - An extension that correctly pronounces words.
+* [yunit](https://yunit.app) - A browser extension that picks unfamiliar words on web pages, shows translations inline as you read, and keeps the words you mark into a personal lexicon.
 
 ## Developer Resources
 
