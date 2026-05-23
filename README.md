@@ -54,6 +54,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [ankigenbot](https://github.com/damaru2/ankigenbot) - A telegram bot that automatically creates Anki flashcards for words you send to it.
 * [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) - An optimized spaced repetition algorithm that should minimize review time.
 * [vocage](https://github.com/proycon/vocage) - A spaced repetition program in the terminal
+* [KaChiKa](https://kachika.app/) - AI photo-to-flashcard app for language learners. Snap a photo to extract vocabulary in real-life context, with FSRS-scheduled reviews. Supports EN/JA/FR/KO/IT/ES/ZH on iOS, Android, APK.
 
 ### Video Players (or extensions)
 * [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - Allows you to automatically create Anki flashcards out of the TV shows you are watching.
