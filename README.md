@@ -60,6 +60,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [Immersive](https://github.com/Ben-Kerman/immersive) - A similar program to mpvacious.
 * [voracious](https://github.com/rsimmons/voracious) - A video player that has several features directed at language learning.
 * [subadub](https://github.com/rsimmons/subadub) - An extension for Netflix that allows downloading SRT and makes them copyable (so that you can look up the words).
+* [TubeVocab](https://www.tubevocab.com) - A web app that turns YouTube videos into ESL vocabulary lists with spaced repetition flashcards, in the spirit of mpvacious/subadub but browser-based.
 
 ### Language Learning Games
 * [LibreLingo](https://github.com/LibreLingo/LibreLingo) - An open-source Duolingo-like game.
