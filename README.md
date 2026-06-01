@@ -9,6 +9,7 @@ A curated list of amazing projects that help you learn languages.
     - [Reader Programs or extensions](#reader-programs-or-extensions)
     - [Anki (Flashcards)](#anki-flashcards)
     - [Video Players (or extensions)](#video-players-or-extensions)
+    - [Listening & Speaking Practice](#listening--speaking-practice)
     - [Language Learning Games](#language-learning-games)
     - [Open Source Games (with a lot of text and translations)](#open-source-games-with-a-lot-of-text-and-translations)
     - [Courses](#courses)
@@ -60,6 +61,9 @@ These applications allow you to read texts with an integrated system to look up 
 * [Immersive](https://github.com/Ben-Kerman/immersive) - A similar program to mpvacious.
 * [voracious](https://github.com/rsimmons/voracious) - A video player that has several features directed at language learning.
 * [subadub](https://github.com/rsimmons/subadub) - An extension for Netflix that allows downloading SRT and makes them copyable (so that you can look up the words).
+
+### Listening & Speaking Practice
+* [Echo Loop](https://github.com/echo-loop/Echo-Loop) - An open-source app that drives the full blind listening → intensive listening → shadowing → retelling → spaced-review loop on any imported audio, with ASR-based shadowing scoring and AI subtitle generation. Cross-platform (iOS / Android / macOS / Windows).
 
 ### Language Learning Games
 * [LibreLingo](https://github.com/LibreLingo/LibreLingo) - An open-source Duolingo-like game.
