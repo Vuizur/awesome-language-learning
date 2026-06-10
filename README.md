@@ -78,6 +78,7 @@ These applications allow you to read texts with an integrated system to look up 
 
 ### Courses
 * [Language Transfer](https://github.com/language-transfer/lt-app) - An app that offers completely free audio courses for several languages.
+* [Learn Farsi: Real Persian](https://learn-persian.pages.dev/) - A spoken-first Persian learning app with romanisation, Persian script, audio, quizzes, handwriting practice, and cultural notes. Available on [iPhone](https://apps.apple.com/app/learn-farsi-real-persian/id6762064987) and [Android](https://play.google.com/store/apps/details?id=com.jakewarburton.learnfarsi).
 
 ### Chrome Extensions
 * [word-discoverer](https://github.com/mechatroner/word-discoverer) - An extension that highlights rare words in texts.
