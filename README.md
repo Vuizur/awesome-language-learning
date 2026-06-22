@@ -34,7 +34,8 @@ A curated list of amazing projects that help you learn languages.
 
 ### Chatbots
 * [ChatGPT](https://chat.openai.com/) - very good for practicing a wide variety for languages. Especially with the new version that can listen and reply to you in voice (freely available in the app).
-  
+* [Miguelito](https://github.com/alesdrobysh/miguelito) - Self-hosted AI Spanish tutor with persistent memory, scheduled morning/evening practice prompts, and runs in Telegram or the browser (WebLLM or OpenRouter).
+
 ### Learning With Texts (LinQ-like)
 These applications allow you to read texts with an integrated system to look up words, mark them as known, and track your progress.
 * [trunk](https://github.com/theiceshelf/trunk) - Very pretty UI, works pretty well (although the author says it's unstable) and supports 8 languages.
