@@ -54,6 +54,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [ankigenbot](https://github.com/damaru2/ankigenbot) - A telegram bot that automatically creates Anki flashcards for words you send to it.
 * [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) - An optimized spaced repetition algorithm that should minimize review time.
 * [vocage](https://github.com/proycon/vocage) - A spaced repetition program in the terminal
+* [Mandarin Flashcards (HSK 1–3)](https://ordinarymantrying.com/tools/mandarin-flashcards/) - Browser-based flashcard tool for learning Mandarin Chinese. Covers 400 words across HSK1-3. Tap any card for pinyin, tone, meaning, and example. Spaced repetition via localStorage. Zero install. [Open source](https://github.com/daligao/mandarin-flashcards).
 
 ### Video Players (or extensions)
 * [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - Allows you to automatically create Anki flashcards out of the TV shows you are watching.
@@ -131,3 +132,14 @@ You need illustrations for your project? Look no further.
 
 ## Contributing
 If you have ideas about what to add or see some description that is inaccurate or you want to add one, send a pull request or open an issue.
+
+## 🀄 Chinese / Mandarin
+
+Free browser tools — no login, no install, fully offline single HTML files. Built by someone who lives in China.
+
+* [Pinyin Annotator](https://ordinarymantrying.com/tools/pinyin-annotator.html) — Paste any Chinese text → instant pinyin above every character. 2,500+ char dictionary, four-tone color coding, HSK level highlight. ([GitHub](https://github.com/daligao/pinyin-annotator))
+* [Chinese Reading Lab](https://ordinarymantrying.com/tools/chinese-reading-lab.html) — 10 historical decisions in Chinese (HSK4–6): Mandela, Jobs, Musk, Tu Youyou. Read → decide → 3 comprehension questions. Clickable vocab popup. ([GitHub](https://github.com/daligao/chinese-reading-lab))
+* [Chengyu Stories](https://ordinarymantrying.com/tools/chengyu-stories.html) — 20 classic 成语 with origin stories in Chinese, modern usage, and scenario quiz. HSK4–6. ([GitHub](https://github.com/daligao/chengyu-stories))
+* [Mandarin Flashcards](https://ordinarymantrying.com/tools/mandarin-flashcards.html) — HSK1–3 (400+ words), spaced repetition, level filter, story reader mode. ([GitHub](https://github.com/daligao/mandarin-flashcards))
+* [Chinese Writing Toolkit](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) — Model essays + sentence banks for 11 HSK writing types (invitation, complaint, cover letter, etc.). ([GitHub](https://github.com/daligao/chinese-writing-toolkit))
+
