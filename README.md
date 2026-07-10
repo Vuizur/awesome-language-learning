@@ -82,6 +82,7 @@ These applications allow you to read texts with an integrated system to look up 
 ### Chrome Extensions
 * [word-discoverer](https://github.com/mechatroner/word-discoverer) - An extension that highlights rare words in texts.
 * [pronounce](https://github.com/filipeisho/pronounce) - An extension that correctly pronounces words.
+* [Vocabo](https://chromewebstore.google.com/detail/jkidhonedioaomijgdccandhiffoiheb) - Replaces words and phrases (up to 5 words) on any page you browse with their translation, keeping the rest of the sentence in your language for context. Free, no signup, 194+ languages.
 
 ## Developer Resources
 
