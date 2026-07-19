@@ -125,6 +125,7 @@ You need illustrations for your project? Look no further.
 
 ## Useful Resources
 
+* [Lingua-e](https://www.lingua-e.com/es/a1?utm_source=github) - English learning app for developers with interactive exercises covering daily standups, code reviews, pull requests, and technical interviews.
 * [Free Language Tools Wiki](https://wiki.freelanguagetools.org/quickstart) - Has a lot of useful tips and links, written by the vocabsieve maintainer.
 * [Low resource languages](https://github.com/RichardLitt/low-resource-languages) - A Github repo containing many links to projects about low resource languages
 * [Language-learning](https://github.com/tigertv/language-learning) - A Github repo with many links to language learning resources
