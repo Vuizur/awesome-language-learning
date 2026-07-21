@@ -58,6 +58,7 @@ These applications allow you to read texts with an integrated system to look up 
 ### Video Players (or extensions)
 * [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - Allows you to automatically create Anki flashcards out of the TV shows you are watching.
 * [Immersive](https://github.com/Ben-Kerman/immersive) - A similar program to mpvacious.
+* [mLearn](https://mlearn.kikan.net) - Language immersion app with interactive subtitles, OCR, sentence mining, and SRS.
 * [voracious](https://github.com/rsimmons/voracious) - A video player that has several features directed at language learning.
 * [subadub](https://github.com/rsimmons/subadub) - An extension for Netflix that allows downloading SRT and makes them copyable (so that you can look up the words).
 
