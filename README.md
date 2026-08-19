@@ -78,6 +78,7 @@ These applications allow you to read texts with an integrated system to look up 
 
 ### Courses
 * [Language Transfer](https://github.com/language-transfer/lt-app) - An app that offers completely free audio courses for several languages.
+* [PolyglotGym](https://polyglotgym.com) - A free platform with structured CEFR courses (A1-C2), grammar references, and audio for 100+ languages.
 
 ### Chrome Extensions
 * [word-discoverer](https://github.com/mechatroner/word-discoverer) - An extension that highlights rare words in texts.
