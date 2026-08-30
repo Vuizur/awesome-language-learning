@@ -32,6 +32,8 @@ A curated list of amazing projects that help you learn languages.
 * [Wiktionary-Dictionaries](https://github.com/Vuizur/Wiktionary-Dictionaries) - Dictionaries extracted from the English Wiktionary, supporting 300+ languages with definitions in English.
 * [dictionariez](https://github.com/pnlpal/dictionariez) - A browser extension to look up words on web pages.
 
+- [3ammiya](https://3ammiya.com/en) — Egyptian Arabic dictionary with Arabic-script and Franco/Arabizi search.
+
 ### Chatbots
 * [ChatGPT](https://chat.openai.com/) - very good for practicing a wide variety for languages. Especially with the new version that can listen and reply to you in voice (freely available in the app).
   
