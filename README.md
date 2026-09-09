@@ -60,6 +60,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [Immersive](https://github.com/Ben-Kerman/immersive) - A similar program to mpvacious.
 * [voracious](https://github.com/rsimmons/voracious) - A video player that has several features directed at language learning.
 * [subadub](https://github.com/rsimmons/subadub) - An extension for Netflix that allows downloading SRT and makes them copyable (so that you can look up the words).
+* [LinguaMiner](https://github.com/thecopybookhare-cmd/lingua-miner) - A Migaku-style miner that runs entirely offline: watch a video with word-by-word subtitles, click an unknown word and get an Anki card with the sentence audio, a short animated clip and a translation. Twelve languages, local Whisper transcription and neural translation, and an epub reader that mines the same way.
 
 ### Language Learning Games
 * [LibreLingo](https://github.com/LibreLingo/LibreLingo) - An open-source Duolingo-like game.
