@@ -28,7 +28,7 @@ A curated list of amazing projects that help you learn languages.
 
 ### Dictionaries
 * [wikdict-gen](https://github.com/karlb/wikdict-gen) - For 20 popular languages this project offers a downloadable dictionary in many formats for each language pair.
-* [ebook-reader-dict](https://github.com/BoboTiG/ebook-reader-dict) - 14 monolingual dictionaries extracted from Wiktionary in several languages.
+* [reader.dict](https://github.com/reader-dict/monolingual) (ex ebook-reader-dict) - 25 monolingual dictionaries extracted from Wiktionary in several languages.
 * [Wiktionary-Dictionaries](https://github.com/Vuizur/Wiktionary-Dictionaries) - Dictionaries extracted from the English Wiktionary, supporting 300+ languages with definitions in English.
 * [dictionariez](https://github.com/pnlpal/dictionariez) - A browser extension to look up words on web pages.
 
