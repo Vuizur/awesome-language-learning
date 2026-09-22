@@ -126,6 +126,7 @@ You need illustrations for your project? Look no further.
 ## Useful Resources
 
 * [Free Language Tools Wiki](https://wiki.freelanguagetools.org/quickstart) - Has a lot of useful tips and links, written by the vocabsieve maintainer.
+* [1,000 Common Words in 7 Languages](https://heyfuego.com/words) - Lists of 1,000 common words for seven languages, with audio and example sentences, also as PDFs and Anki decks.
 * [Low resource languages](https://github.com/RichardLitt/low-resource-languages) - A Github repo containing many links to projects about low resource languages
 * [Language-learning](https://github.com/tigertv/language-learning) - A Github repo with many links to language learning resources
 
