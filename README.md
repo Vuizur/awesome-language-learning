@@ -128,7 +128,7 @@ You need illustrations for your project? Look no further.
 * [Free Language Tools Wiki](https://wiki.freelanguagetools.org/quickstart) - Has a lot of useful tips and links, written by the vocabsieve maintainer.
 * [Low resource languages](https://github.com/RichardLitt/low-resource-languages) - A Github repo containing many links to projects about low resource languages
 * [Language-learning](https://github.com/tigertv/language-learning) - A Github repo with many links to language learning resources
-* [DuoText library](https://duotext.io/library/) - 120+ free public-domain short stories in German, Spanish, French and Italian with the English beside each paragraph, from A1 fables to C1 Poe. Machine-translated; read online or download for Kindle and Kobo. (Disclosure: I made it.)
+* [DuoText library](https://duotext.io/library/) - 130+ free public-domain short stories (nearly 500 editions) in German, Spanish, French and Italian, with the English beside each paragraph, from A1 fables to C1 Poe. Machine-translated; read online or download for Kindle and Kobo. (Disclosure: I made it.)
 
 ## Contributing
 If you have ideas about what to add or see some description that is inaccurate or you want to add one, send a pull request or open an issue.
