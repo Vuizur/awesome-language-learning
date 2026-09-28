@@ -59,6 +59,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - Allows you to automatically create Anki flashcards out of the TV shows you are watching.
 * [Immersive](https://github.com/Ben-Kerman/immersive) - A similar program to mpvacious.
 * [voracious](https://github.com/rsimmons/voracious) - A video player that has several features directed at language learning.
+* [WinkLingo](https://winklingo.com/en) - Search a huge library of movie clips for any phrase, with AI breakdowns, an instant dictionary lookup, and line looping.
 * [subadub](https://github.com/rsimmons/subadub) - An extension for Netflix that allows downloading SRT and makes them copyable (so that you can look up the words).
 
 ### Language Learning Games
