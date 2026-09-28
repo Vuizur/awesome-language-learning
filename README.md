@@ -40,6 +40,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [trunk](https://github.com/theiceshelf/trunk) - Very pretty UI, works pretty well (although the author says it's unstable) and supports 8 languages.
 * [lwt](https://github.com/HugoFara/lwt) - A self-hosted version (requires a bit of effort to get running) with a long history.
 * [Lute](https://github.com/LuteOrg/lute-v3) - Learning Using Texts (Lute). A partial rewrite of lwt.
+* [Language through Literature](https://languagethroughliterature.com) - Hosted reader with a fixed, hand-checked canon (Chekhov, Dostoevsky, Grimm, Quiroga, Perrault, Daudet) instead of paste-your-own text: every word gives its dictionary form, stress and meaning on tap, every sentence its translation, every line read aloud. First story in each language free without an account.
 
 ### Reader Programs or extensions
 * [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - An manga reader that can fetch manga in many different languages.
