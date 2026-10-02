@@ -60,6 +60,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [Immersive](https://github.com/Ben-Kerman/immersive) - A similar program to mpvacious.
 * [voracious](https://github.com/rsimmons/voracious) - A video player that has several features directed at language learning.
 * [subadub](https://github.com/rsimmons/subadub) - An extension for Netflix that allows downloading SRT and makes them copyable (so that you can look up the words).
+* [YuzuLingo](https://www.yuzulingo.com) Browser extension that runs local OCR over hardcoded video subtitles (YouTube, Bilibili) to enable pop-up dictionary lookups.
 
 ### Language Learning Games
 * [LibreLingo](https://github.com/LibreLingo/LibreLingo) - An open-source Duolingo-like game.
