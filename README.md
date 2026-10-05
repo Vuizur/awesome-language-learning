@@ -48,6 +48,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [fluentcards](https://github.com/katspaugh/fluentcards) - A website that allows you to turn your kindle lookups into Anki flashcards
 
 ### Anki (Flashcards)
+*- [LexForge](https://github.com/Da-boss-is-here/Lexforge) - A free, offline, browser-based vocabulary trainer that schedules recognition and production separately with FSRS-6 and only marks a word as mastered once you have produced it yourself.
 * [AnkiDroid](https://github.com/ankidroid/Anki-Android) - The free Anki Android client for the most popular flashcard software - the [desktop version](https://apps.ankiweb.net/) is free as well.
 * [vocabsieve](https://github.com/FreeLanguageTools/vocabsieve) - A program that allows to easily add sentences you read to Anki. Per flashcard the focus always lies on one word, with automatically fetched translations + pronunciation.
 * [tatoeba-to-anki](https://github.com/Vuizur/tatoeba-to-anki) - A project that allows you to generate Anki decks with translations.
