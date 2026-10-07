@@ -12,6 +12,7 @@ A curated list of amazing projects that help you learn languages.
     - [Language Learning Games](#language-learning-games)
     - [Open Source Games (with a lot of text and translations)](#open-source-games-with-a-lot-of-text-and-translations)
     - [Courses](#courses)
+    - [Pronunciation](#pronunciation)
     - [Chrome Extensions](#chrome-extensions)
   - [Developer Resources](#developer-resources)
     - [Frequency Lists](#frequency-lists)
@@ -78,6 +79,9 @@ These applications allow you to read texts with an integrated system to look up 
 
 ### Courses
 * [Language Transfer](https://github.com/language-transfer/lt-app) - An app that offers completely free audio courses for several languages.
+
+### Pronunciation
+* [TonePerfect pronunciation tests](https://toneperfect.app/languages) - Browser tests (no account needed) that score each word and each sound you say in Mandarin, English, Spanish, French, German, Russian, Japanese and Korean; Mandarin tones are scored per syllable. The tests are free; the app behind them is freemium.
 
 ### Chrome Extensions
 * [word-discoverer](https://github.com/mechatroner/word-discoverer) - An extension that highlights rare words in texts.
