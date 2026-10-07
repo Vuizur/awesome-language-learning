@@ -40,6 +40,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [trunk](https://github.com/theiceshelf/trunk) - Very pretty UI, works pretty well (although the author says it's unstable) and supports 8 languages.
 * [lwt](https://github.com/HugoFara/lwt) - A self-hosted version (requires a bit of effort to get running) with a long history.
 * [Lute](https://github.com/LuteOrg/lute-v3) - Learning Using Texts (Lute). A partial rewrite of lwt.
+* [Rolko](https://www.rolko.xyz/) - A freemium Chrome extension for looking up words while reading Chinese, Japanese, and Korean webpages, with saved vocabulary and spaced-repetition review in a companion web workspace. Basic lookup is free. Saving new words requires a paid plan; previously saved words remain reviewable on Free.
 
 ### Reader Programs or extensions
 * [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - An manga reader that can fetch manga in many different languages.
