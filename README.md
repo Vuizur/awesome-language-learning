@@ -31,6 +31,7 @@ A curated list of amazing projects that help you learn languages.
 * [ebook-reader-dict](https://github.com/BoboTiG/ebook-reader-dict) - 14 monolingual dictionaries extracted from Wiktionary in several languages.
 * [Wiktionary-Dictionaries](https://github.com/Vuizur/Wiktionary-Dictionaries) - Dictionaries extracted from the English Wiktionary, supporting 300+ languages with definitions in English.
 * [dictionariez](https://github.com/pnlpal/dictionariez) - A browser extension to look up words on web pages.
+* [WordHub](https://wordhub.top) - Vocabulary learning platform with etymology-based explanations, spaced repetition, and apps for web, browser, iOS and macOS.
 
 ### Chatbots
 * [ChatGPT](https://chat.openai.com/) - very good for practicing a wide variety for languages. Especially with the new version that can listen and reply to you in voice (freely available in the app).
