@@ -53,6 +53,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [tatoeba-to-anki](https://github.com/Vuizur/tatoeba-to-anki) - A project that allows you to generate Anki decks with translations.
 * [ankigenbot](https://github.com/damaru2/ankigenbot) - A telegram bot that automatically creates Anki flashcards for words you send to it.
 * [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) - An optimized spaced repetition algorithm that should minimize review time.
+* [Ordkort](https://github.com/silicq/ordkort) - A free web app with ready vocabulary decks for 60 languages, FSRS spaced repetition, a learner's dictionary, a grammar book and a translator that explains each word; no account, works offline. [Website](https://ordkort.com)
 * [vocage](https://github.com/proycon/vocage) - A spaced repetition program in the terminal
 
 ### Video Players (or extensions)
