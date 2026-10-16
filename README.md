@@ -46,6 +46,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [KOReader](https://github.com/koreader/koreader) - An open source ebook reader app that runs on many devices and has a lot of integrated dictionaries that can be downloaded with one click.
 * [WordDumb](https://github.com/xxyzz/WordDumb) - A program that edits ebooks so that simplified definitions are shown over complicated words. It also supports generating Kindle X-Ray.
 * [fluentcards](https://github.com/katspaugh/fluentcards) - A website that allows you to turn your kindle lookups into Anki flashcards
+* [Bibooks](https://bibooks.org/languages) - Free bilingual read-along audiobooks with sentence-by-sentence parallel text and word-highlighted audio (free to read, paid tiers for extra features).
 
 ### Anki (Flashcards)
 * [AnkiDroid](https://github.com/ankidroid/Anki-Android) - The free Anki Android client for the most popular flashcard software - the [desktop version](https://apps.ankiweb.net/) is free as well.
