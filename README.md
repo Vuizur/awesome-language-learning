@@ -78,6 +78,7 @@ These applications allow you to read texts with an integrated system to look up 
 
 ### Courses
 * [Language Transfer](https://github.com/language-transfer/lt-app) - An app that offers completely free audio courses for several languages.
+* [Free English Learning Tools](https://github.com/shelfom/free-english-learning-tools) - Free, open-source web apps for English learners: IELTS listening and reading paraphrase drills, writing practice, an AI speaking mock test, and Cambridge KET/PET/FCE picture flashcards with British audio.
 
 ### Chrome Extensions
 * [word-discoverer](https://github.com/mechatroner/word-discoverer) - An extension that highlights rare words in texts.
