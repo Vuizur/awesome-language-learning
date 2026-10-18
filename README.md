@@ -128,6 +128,7 @@ You need illustrations for your project? Look no further.
 * [Free Language Tools Wiki](https://wiki.freelanguagetools.org/quickstart) - Has a lot of useful tips and links, written by the vocabsieve maintainer.
 * [Low resource languages](https://github.com/RichardLitt/low-resource-languages) - A Github repo containing many links to projects about low resource languages
 * [Language-learning](https://github.com/tigertv/language-learning) - A Github repo with many links to language learning resources
+* [LingoGrove](https://lingogrove.com/) - Free reference for English speakers with verb conjugation tables, loanword meanings and grammar explanations in plain English.
 
 ## Contributing
 If you have ideas about what to add or see some description that is inaccurate or you want to add one, send a pull request or open an issue.
