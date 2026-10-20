@@ -34,6 +34,7 @@ A curated list of amazing projects that help you learn languages.
 
 ### Chatbots
 * [ChatGPT](https://chat.openai.com/) - very good for practicing a wide variety for languages. Especially with the new version that can listen and reply to you in voice (freely available in the app).
+* [Talkfirst](https://talkfirst.io/) - Voice conversations with an AI partner for English, Polish, Lithuanian and Czech, with a review of pauses and mistakes, word-by-word pronunciation scoring and spaced-repetition flashcards; also connects to Claude and ChatGPT as an MCP connector. Freemium.
   
 ### Learning With Texts (LinQ-like)
 These applications allow you to read texts with an integrated system to look up words, mark them as known, and track your progress.
