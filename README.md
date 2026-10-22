@@ -78,6 +78,7 @@ These applications allow you to read texts with an integrated system to look up 
 
 ### Courses
 * [Language Transfer](https://github.com/language-transfer/lt-app) - An app that offers completely free audio courses for several languages.
+* [Indilingo](https://www.indilingo.ai/) - An Android/iOS app with courses for 22 Indian languages and 17 world languages, including low-resource ones like Konkani, Santali and Bodo. It has spoken conversation practice with a voice tutor, and lessons can be taken from English or from another Indian language. Free tier with an optional paid plan.
 
 ### Chrome Extensions
 * [word-discoverer](https://github.com/mechatroner/word-discoverer) - An extension that highlights rare words in texts.
