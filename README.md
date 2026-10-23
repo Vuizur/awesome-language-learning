@@ -96,6 +96,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [wordnet-as-a-service](https://github.com/jacopofar/wordnet-as-a-service) - A REST interface for WordNet.
 * [Proficiency](https://github.com/xxyzz/Proficiency/tree/master) - A library that extracts short definitions from kaikki data.
 * [dictcc-stardict](https://github.com/Linus789/dictcc-stardict) - Tool to convert the dict.cc dictionaries to stardict format.
+* [chinese-surnames-dataset](https://github.com/liziqing/chinese-surnames-dataset) - An open JSON dataset (CC BY 4.0 data, MIT code) of 1,000+ Chinese surnames with Hanzi, traditional forms, pinyin, English/French/German descriptions, origins and regional/diaspora romanizations.
 
 ### Translation
 * [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)
