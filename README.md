@@ -34,6 +34,7 @@ A curated list of amazing projects that help you learn languages.
 
 ### Chatbots
 * [ChatGPT](https://chat.openai.com/) - very good for practicing a wide variety for languages. Especially with the new version that can listen and reply to you in voice (freely available in the app).
+* [Elispeak](https://elispeak.com) - Real-time conversational AI English speaking tutor with interactive voice feedback on fluency and pronunciation.
   
 ### Learning With Texts (LinQ-like)
 These applications allow you to read texts with an integrated system to look up words, mark them as known, and track your progress.
