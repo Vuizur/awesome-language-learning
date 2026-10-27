@@ -40,6 +40,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [trunk](https://github.com/theiceshelf/trunk) - Very pretty UI, works pretty well (although the author says it's unstable) and supports 8 languages.
 * [lwt](https://github.com/HugoFara/lwt) - A self-hosted version (requires a bit of effort to get running) with a long history.
 * [Lute](https://github.com/LuteOrg/lute-v3) - Learning Using Texts (Lute). A partial rewrite of lwt.
+* [Lexico](https://getlexico.com/) - Read public-domain classics in French, Spanish, Italian or German: tap a sentence for its English translation and each word's dictionary form, meaning and conjugation table, and save words as spaced-repetition flashcards. Free in the browser (iOS app in review). Books are stored in an [open, documented SQLite format](https://github.com/tdermendjiev/lexico_format).
 
 ### Reader Programs or extensions
 * [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - An manga reader that can fetch manga in many different languages.
