@@ -27,6 +27,7 @@ A curated list of amazing projects that help you learn languages.
 ## Language Learning
 
 ### Dictionaries
+* [VocaFlare Clips](https://clips.vocaflare.com/playground) - Type a word and hear it spoken in real YouTube clips, jumping to the exact second with the transcript line highlighted (English and Spanish).
 * [wikdict-gen](https://github.com/karlb/wikdict-gen) - For 20 popular languages this project offers a downloadable dictionary in many formats for each language pair.
 * [ebook-reader-dict](https://github.com/BoboTiG/ebook-reader-dict) - 14 monolingual dictionaries extracted from Wiktionary in several languages.
 * [Wiktionary-Dictionaries](https://github.com/Vuizur/Wiktionary-Dictionaries) - Dictionaries extracted from the English Wiktionary, supporting 300+ languages with definitions in English.
