@@ -60,6 +60,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [Immersive](https://github.com/Ben-Kerman/immersive) - A similar program to mpvacious.
 * [voracious](https://github.com/rsimmons/voracious) - A video player that has several features directed at language learning.
 * [subadub](https://github.com/rsimmons/subadub) - An extension for Netflix that allows downloading SRT and makes them copyable (so that you can look up the words).
+* [Lalea](https://lalea.app/) - A web player for your own Plex, Jellyfin or Emby library or a local video file, with two subtitle lines, tappable words and spaced-repetition review (freemium, not open source).
 
 ### Language Learning Games
 * [LibreLingo](https://github.com/LibreLingo/LibreLingo) - An open-source Duolingo-like game.
