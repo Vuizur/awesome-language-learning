@@ -122,6 +122,7 @@ You need illustrations for your project? Look no further.
 
 ### Other Great Projects
 * [WantWords](https://github.com/thunlp/WantWords) - A reverse dictionary that can find words based on the definitions you type (and works surprisingly well).
+* [MandarinReps](https://mandarinreps.com/chinese-typing-practice) - Free-to-start Mandarin sentence-typing practice for HSK 2–4 learners using a Chinese Pinyin IME.
 
 ## Useful Resources
 
