@@ -122,6 +122,7 @@ You need illustrations for your project? Look no further.
 
 ### Other Great Projects
 * [WantWords](https://github.com/thunlp/WantWords) - A reverse dictionary that can find words based on the definitions you type (and works surprisingly well).
+* [UnimeType Transliteration 2.0](https://huggingface.co/UnimeType/Transliteration-2.0-4B) - Open-weight Apache-2.0 multilingual transliteration models (0.8B and 4B, with GGUF & WASM support) and [free browser converters](https://unimetype.com/tools/pinyin-to-chinese) that convert Pinyin, Romaji, Hinglish, and Arabizi into native scripts while preserving English words.
 
 ## Useful Resources
 
