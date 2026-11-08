@@ -82,6 +82,7 @@ These applications allow you to read texts with an integrated system to look up 
 ### Chrome Extensions
 * [word-discoverer](https://github.com/mechatroner/word-discoverer) - An extension that highlights rare words in texts.
 * [pronounce](https://github.com/filipeisho/pronounce) - An extension that correctly pronounces words.
+* [Sentence Analyzer (拆句)](https://www.powersoftware.app/en-US/product/detail/english-sentence-analyzer) - A Chrome extension that breaks down English sentences and provides grammar analysis and vocabulary practice for language learners.
 
 ## Developer Resources
 
