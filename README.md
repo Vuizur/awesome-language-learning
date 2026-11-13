@@ -54,6 +54,7 @@ These applications allow you to read texts with an integrated system to look up 
 * [ankigenbot](https://github.com/damaru2/ankigenbot) - A telegram bot that automatically creates Anki flashcards for words you send to it.
 * [FSRS4Anki](https://github.com/open-spaced-repetition/fsrs4anki) - An optimized spaced repetition algorithm that should minimize review time.
 * [vocage](https://github.com/proycon/vocage) - A spaced repetition program in the terminal
+* [hsk-word-lists](https://github.com/astrojams1/hsk-word-lists) - Every HSK 3.0 word for Mandarin levels 1 to 6 with pinyin and English, as CSV and Anki import files (CC BY-SA 4.0).
 
 ### Video Players (or extensions)
 * [mpvacious](https://github.com/Ajatt-Tools/mpvacious) - Allows you to automatically create Anki flashcards out of the TV shows you are watching.
