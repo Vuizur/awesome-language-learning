@@ -128,6 +128,7 @@ You need illustrations for your project? Look no further.
 * [Free Language Tools Wiki](https://wiki.freelanguagetools.org/quickstart) - Has a lot of useful tips and links, written by the vocabsieve maintainer.
 * [Low resource languages](https://github.com/RichardLitt/low-resource-languages) - A Github repo containing many links to projects about low resource languages
 * [Language-learning](https://github.com/tigertv/language-learning) - A Github repo with many links to language learning resources
+* [Language Tools Directory](https://languagetools.directory/) - A curated directory of about 200 language learning tools (apps, courses, podcasts, dictionaries, tutors), filterable by 100+ languages, skill tags and pricing. Free to browse.
 
 ## Contributing
 If you have ideas about what to add or see some description that is inaccurate or you want to add one, send a pull request or open an issue.
