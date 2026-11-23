@@ -82,6 +82,7 @@ These applications allow you to read texts with an integrated system to look up 
 ### Chrome Extensions
 * [word-discoverer](https://github.com/mechatroner/word-discoverer) - An extension that highlights rare words in texts.
 * [pronounce](https://github.com/filipeisho/pronounce) - An extension that correctly pronounces words.
+* [Inputly](https://github.com/joaquinmuzzi/Inputly) - A browser extension that counts the time you spend watching videos in the language you learn, detecting the language of each YouTube video.
 
 ## Developer Resources
 
